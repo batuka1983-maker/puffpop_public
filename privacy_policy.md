@@ -17,7 +17,7 @@ The App does not display ads and does not use third‑party analytics or trackin
 The App is not designed to collect personal information from children. If you believe that a child has provided personal information, please contact us and we will delete it.
 
 5. Changes to This Policy
-We may update this Privacy Policy from time to time. Any changes will be posted within the App or on the app listing with a new effective date.
+We may update this Privacy Policy from time to time. Any changes will be posted with a new effective date.
 
 6. Contact Us
 If you have any questions about this Privacy Policy, contact us at:
